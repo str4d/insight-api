@@ -26,5 +26,12 @@
     "searchStrings": [
       "{ZMINE.IO}"
     ]
+  },
+  {
+    "poolName": "Someone using z-nomp!",
+    "url": "https://github.com/joshuayabut/z-nomp/",
+    "searchStrings": [
+      "Z-NOMP! https://github.com/joshuayabut/z-nomp"
+    ]
   }
 ]
