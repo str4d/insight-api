@@ -40,5 +40,26 @@
     "searchStrings": [
       "七彩神仙鱼"
     ]
-  }  
+  },
+    {
+    "poolName": "ViaBTC",
+    "url": "https://pool.viabtc.com/",
+    "searchStrings": [
+      "/ViaBTC/Hello world!/"
+    ]
+  },
+  {
+    "poolName": "Slush",
+    "url": "https://slushpool.com/",
+    "searchStrings": [
+      "/slush/"
+    ]
+  },
+  {
+    "poolName": "Coinmine.pl",
+    "url": "https://www2.coinmine.pl/",
+    "searchStrings": [
+      "Z-NOMP! https://github.com/joshuayabut/z-nomp"
+    ]
+  }
 ]
