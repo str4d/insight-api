@@ -61,5 +61,19 @@
     "searchStrings": [
       "Z-NOMP! https://github.com/joshuayabut/z-nomp"
     ]
+  },
+  {
+    "poolName": "Poolin",
+    "url": "https://www.poolin.com/",
+    "searchStrings": [
+      "poolin.com"
+    ]
+  },
+  {
+    "poolName": "2Miners",
+    "url": "https://2miners.com",
+    "searchStrings": [
+      "2Miners"
+    ]
   }
 ]
