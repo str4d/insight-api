@@ -68,7 +68,7 @@
   "main": "lib",
   "bitcoreNode": "lib",
   "dependencies": {
-    "async": "*",
+    "async": "^2.6.1",
     "bitcore-lib-zcash": "zcash-hackworks/bitcore-lib-zcash",
     "bitcore-message-zcash": "zcash-hackworks/bitcore-message-zcash",
     "body-parser": "^1.13.3",
