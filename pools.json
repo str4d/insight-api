@@ -1,30 +1,79 @@
 [
   {
-    "poolName": "Bitfly",
+    "poolName": "Flypool",
     "url": "https://zcash.flypool.org/",
     "searchStrings": [
       "/flypool/"
     ]
   },
   {
-    "poolName": "NaN",
-    "url": "",
+    "poolName": "Nanopool",
+    "url": "https://zcash.flypool.org/",
     "searchStrings": [
-      "/NaN"
+      "nanopool"
     ]
   },
-  {
-    "poolName": "Stratum",
-    "url": "",
+    {
+    "poolName": "Suprnova",
+    "url": "https://zcash.flypool.org/",
     "searchStrings": [
       "/nodeStratum/"
     ]
   },
   {
-    "poolName": "Zmine",
-    "url": "https://zmine.io/",
+    "poolName": "Coinotron",
+    "url": "https://coinotron.com/",
     "searchStrings": [
-      "{ZMINE.IO}"
+      "Coinotron"
+    ]
+  },
+  {
+    "poolName": "AntPool",
+    "url": "https://www.antpool.com/",
+    "searchStrings": [
+      "AntPool"
+    ]
+  },
+  {
+    "poolName": "F2Pool",
+    "url": "https://www.f2pool.com/",
+    "searchStrings": [
+      "七彩神仙鱼"
+    ]
+  },
+    {
+    "poolName": "ViaBTC",
+    "url": "https://pool.viabtc.com/",
+    "searchStrings": [
+      "/ViaBTC/Hello world!/"
+    ]
+  },
+  {
+    "poolName": "Slush",
+    "url": "https://slushpool.com/",
+    "searchStrings": [
+      "/slush/"
+    ]
+  },
+  {
+    "poolName": "Coinmine.pl",
+    "url": "https://www2.coinmine.pl/",
+    "searchStrings": [
+      "Z-NOMP! https://github.com/joshuayabut/z-nomp"
+    ]
+  },
+  {
+    "poolName": "Poolin",
+    "url": "https://www.poolin.com/",
+    "searchStrings": [
+      "poolin.com"
+    ]
+  },
+  {
+    "poolName": "2Miners",
+    "url": "https://2miners.com",
+    "searchStrings": [
+      "2Miners"
     ]
   }
 ]
